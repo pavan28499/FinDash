@@ -1,3 +1,3 @@
-# FinShark
+# FinDash
 
-FinShark helps investors find relavent financial documents without the noise of short-term data.
+FinDash helps investors find relavent financial documents without the noise of short-term data.
